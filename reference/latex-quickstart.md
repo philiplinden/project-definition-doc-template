@@ -1,5 +1,9 @@
 # Getting started in LaTeX
 
+## Setting up a compiler
+
+I recommend using [tectonic](https://tectonic-typesetting.github.io).
+
 ## What are all these files?
 
 LaTeX uses several different types of files to generate a beautiful looking document.
